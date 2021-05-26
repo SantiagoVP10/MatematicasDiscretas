@@ -1,2 +1,2 @@
 # MatematicasDiscretas
-https://vaquero10.github.io/MatematicasDiscretas/
+https://Vaquero10.github.io/MatematicasDiscretas/
