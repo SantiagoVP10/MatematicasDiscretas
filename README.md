@@ -1,2 +1,2 @@
 # MatematicasDiscretas
-https://santiagovp10.github.io/MatematicasDiscretas/.
+https://vaquero10.github.io/MatematicasDiscretas/
